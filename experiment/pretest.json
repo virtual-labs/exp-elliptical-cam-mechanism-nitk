@@ -1,39 +1,91 @@
 {
-  "version": 2.0,
-  "questions": [
-    {
-      "question": "This is a Sample Question 1?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+    "version": 2.0,
+    "questions": [
+      {
+        "question":"How many different link lengths are there in a Peaucellier Mechanism?",
+        "answers": {
+          "a": "4",
+          "b": "3",
+          "c": "6",
+          "d": "None of These"
+        },
+        "explanations": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correctAnswer": "b",
+        "difficulty": ""
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      {
+        "question": "Which of the following is not a perfect straight line mechanism?",
+        "answers": {
+          "a": "Peaucellier",
+          "b": "Hart",
+          "c": "Watt",
+          "d": "None of these"
+        },
+        "explanations": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correctAnswer": "c",
+        "difficulty": ""
       },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+      {
+        "question": "The link in a Peaucellier mechanism is ?",
+        "answers": {
+          "a": "Binary link",
+          "b": "Ternary link",
+          "c": "Flexible link",
+          "d": "None of These"
+        },
+        "explanations": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correctAnswer": "a",
+        "difficulty": ""
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      {
+        "question": " Which of the following is true for Peaucellier mechanism shown below <img src='./images/exp17Q.png'/>",
+        "answers": {
+          "a": "PC=BQ=CQ",
+          "b": "AC=AB=3AO",
+          "c": "AO+OQ=QP",
+          "d": "All of the above"
+        },
+        "explanations": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correctAnswer": "a",
+        "difficulty": ""
       },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    }
-  ]
-}
+      {
+        "question": "Which of the following geometric figures is there in a Peaucellier Mechanism  ",
+        "answers": {
+          "a": "Trapezoid",
+          "b": "Square",
+          "c": "Rhombus",
+          "d": "None of These"
+        },
+        "explanations": {
+          "a": "",
+          "b": "",
+          "c": "",
+          "d": ""
+        },
+        "correctAnswer": "c",
+        "difficulty": ""
+      }
+    ]
+  }
+  
