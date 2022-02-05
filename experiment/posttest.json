@@ -1,108 +1,107 @@
 {
-    "version": 2.0,
-    "questions": [
-      {
-        "question": "Grashof's condition is the necessary condition for?",
-        "answers": {
-          "a": "Non Continuous motion",
-          "b": "Intermittent motion",
-          "c": "Continuous motion",
-          "d": "None of these"
-        },
-        "explanations": {
-          "a": "",
-          "b": "",
-          "c": "",
-          "d": ""
-        },
-        "correctAnswer": "c",
-        "difficulty": ""
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Grashof's condition is the necessary condition for?",
+      "answers": {
+        "a": "Non Continuous motion",
+        "b": "Intermittent motion",
+        "c": "Continuous motion",
+        "d": "None of these"
       },
-      {
-        "question": "How many revolute joints does a scotch yoke mechanism have?",
-        "answers": {
-          "a": "1",
-          "b": "2",
-          "c": "3",
-          "d": "None of These"
-        },
-        "explanations": {
-          "a": "",
-          "b": "",
-          "c": "",
-          "d": ""
-        },
-        "correctAnswer": "b",
-        "difficulty": ""
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
-      {
-        "question": "Which of the following straight line mechanisms is a four bar chain?",
-        "answers": {
-          "a": "Tchebichev",
-          "b": "Hart",
-          "c": "Peaucellier",
-          "d": "None of These"
-        },
-        "explanations": {
-          "a": "",
-          "b": "",
-          "c": "",
-          "d": ""
-        },
-        "correctAnswer": "a",
-        "difficulty": ""
+      "correctAnswer": "c",
+      "difficulty": ""
+    },
+    {
+      "question": "How many revolute joints does a scotch yoke mechanism have?",
+      "answers": {
+        "a": "1",
+        "b": "2",
+        "c": "3",
+        "d": "None of These"
       },
-      {
-        "question": "The links in a peaucellier mechanism are ?",
-        "answers": {
-          "a": "Binary link",
-          "b": "Ternary link",
-          "c": "Flexible link",
-          "d": "None of These"
-        },
-        "explanations": {
-          "a": "",
-          "b": "",
-          "c": "",
-          "d": ""
-        },
-        "correctAnswer": "a",
-        "difficulty": ""
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
-      {
-        "question": "Coupled wheel of locomotive is an inversion of",
-        "answers": {
-          "a": "Double Slider Crank Mechanism",
-          "b": "SLider crank mechanism",
-          "c": "Four bar mechanism",
-          "d": "Six bar mechanism"
-        },
-        "explanations": {
-          "a": "",
-          "b": "",
-          "c": "",
-          "d": ""
-        },
-        "correctAnswer": "c",
-        "difficulty": ""
+      "correctAnswer": "b",
+      "difficulty": ""
+    },
+    {
+      "question": "Which of the following straight line mechanisms is a four bar chain?",
+      "answers": {
+        "a": "Tchebichev",
+        "b": "Hart",
+        "c": "Peaucellier",
+        "d": "None of These"
       },
-      {
-        "question": "Number of links in Peaucellier Mechanism",
-        "answers": {
-          "a": "6",
-          "b": "8",
-          "c": "4",
-          "d": "None of These"
-        },
-        "explanations": {
-          "a": "",
-          "b": "",
-          "c": "",
-          "d": ""
-        },
-        "correctAnswer": "8",
-        "difficulty": ""
-      }
-    ]
-  }
-  
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "The links in a peaucellier mechanism are ?",
+      "answers": {
+        "a": "Binary link",
+        "b": "Ternary link",
+        "c": "Flexible link",
+        "d": "None of These"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "Coupled wheel of locomotive is an inversion of",
+      "answers": {
+        "a": "Double Slider Crank Mechanism",
+        "b": "SLider crank mechanism",
+        "c": "Four bar mechanism",
+        "d": "Six bar mechanism"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": ""
+    },
+    {
+      "question": "Number of links in Peaucellier Mechanism",
+      "answers": {
+        "a": "6",
+        "b": "8",
+        "c": "4",
+        "d": "None of These"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    }
+  ]
+}
