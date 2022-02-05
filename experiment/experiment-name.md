@@ -1,1 +1,1 @@
-## Experiment name
+## Elliptical Cam Mechanism

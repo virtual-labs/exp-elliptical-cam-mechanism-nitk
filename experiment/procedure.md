@@ -1,1 +1,1 @@
-### Procedure
+The main purpose of this simulation is to understand the motion in Peaucellier Straight Line Mechanism. Change the parameters under the Variables Section in the simulation to see how the location and length of straight line motion changes. Observe the limits of the mechanism.
