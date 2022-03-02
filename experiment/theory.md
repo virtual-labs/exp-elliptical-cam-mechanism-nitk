@@ -42,7 +42,7 @@ The nomenclature of a Cam is illustrated Figure 2.
 
 Figure 2: Cam nomenclature
 
-[Courtesy: https://www.cs.cmu.edu/~rapidproto/mechanisms/chpt6.htm]
+[ Courtesy: https://www.cs.cmu.edu/~rapidproto/mechanisms/chpt6.html ]
 
 </div>
 
