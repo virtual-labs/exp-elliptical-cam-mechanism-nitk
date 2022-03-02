@@ -82,7 +82,7 @@ During the motion of a cam for one complete cycle, the follower executes a serie
 
 Figure 3: Cam motion cycle
 
-[Courtesy:https://en.wikipedia.org/wiki/Cam#/media/File:Basic_Displacement_Diagram.JPG]
+[ Courtesy:https://en.wikipedia.org/wiki/Cam#/media/File:Basic_Displacement_Diagram.JPG ]
 
 </div>
 
@@ -98,7 +98,7 @@ Cams are also used in I.C engines to operate the inlet valves and exhaust valves
 
 Figure 4: Application of cam in an automobile
 
-[Courtesy:https://www.howacarworks.com]
+[ Courtesy:https://www.howacarworks.com ]
 
 </div>
 
@@ -113,7 +113,7 @@ The cam shaft is driven by a motor. The cutting tool mounted on the transverse s
 
 Figure 5: Automatic copying of cam profile
 
-[Courtesy:http://nptel.ac.in/courses/112103174/module4/lec3/4.html]
+[ Courtesy:http://nptel.ac.in/courses/112103174/module4/lec3/4.html ]
 
 </div>
 
