@@ -70,23 +70,6 @@
       "difficulty": ""
     },
     {
-      "question": "The throw of the cam is the max distance of the follower from",
-      "answers": {
-        "a": "base circle",
-        "b": "pitch circle",
-        "c": "prime circle",
-        "d": "pitch circle"
-      },
-      "explanations": {
-        "a": "",
-        "b": "",
-        "c": "",
-        "d": ""
-      },
-      "correctAnswer": "a",
-      "difficulty": ""
-    },
-    {
       "question": "In radial cams the angle between the direction of motion of followers to the normal to the pitch curve called ",
       "answers": {
         "a": "cam angle",
