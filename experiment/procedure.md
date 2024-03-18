@@ -1,17 +1,19 @@
-1.  Begin the simulation by clicking on the simulator.
-2.  Adjust the angular speed (ω), major (a) and minor (b) axis accordingly and click on play.
+### Procedure
 
-<div style="text-align: center">
+<div style="text-align:left">
+  Click on the Simulation icon    <img src="images/simulation.png" alt="Alt text" style="height:80px; width:80px;">  to view the simulation screen. 
 
-![img](./images/proc1.png)
+   ![Alt text](images/Simscreen1.png)
+   
+   In order to view the variable section click on the Variable icon. <img src="images/var1.png" alt="Alt text" style="height:80px; width:80px;">
 
-</div>
+   ![Alt text](images/var2.png)
 
-3.  Observe the change in position, velocity, acceleration and jerk received by the follower by clicking on show graph.
-4.  The numerical values of position, velocity, acceleration and jerk in are obtained by by clicking on pause button and by scrolling the θ according to the requirement.
+   Click on Play icon <img src="images/play1.png" alt="Alt text" style="height:80px; width:80px;"> to run the simulation and click on Pause icon <img src="images/pause.png" alt="Alt text" style="height:80px; width:80px;"> to stop it.
 
-<div style="text-align: center">
+   Click on the Rotate icon  <img src="images/rotate_clockwise.png" alt="Alt text" style="height:80px; width:80px;"> to change the direction of rotation.
 
-![img](./images/proc2.png)
+   Click on the Graph icon  <img src="images/graph1.png" alt="Alt text" style="height:80px; width:80px;"> to view the graph.    
+   ![Alt text](images/grapgscreen.png)
 
 </div>
