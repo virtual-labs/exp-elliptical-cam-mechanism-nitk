@@ -1,0 +1,107 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "The elliptical cam is employed as?",
+      "answers": {
+        "a": "drive mechanism for reciprocating feed tool system",
+        "b": "for drawing large ellipse",
+        "c": "for transforming rotary motion into a linear motion",
+        "d": "tools packaging and transport machinery"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "Which of the following is not a perfect straight line mechanism?",
+      "answers": {
+        "a": "Peaucellier",
+        "b": "Hart",
+        "c": "Watt",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": ""
+    },
+    {
+      "question": "Rotating or an oscillating element of a machine that follows the motion of cam by direct contact?",
+      "answers": {
+        "a": "roller",
+        "b": "spring",
+        "c": "cam",
+        "d": "follower"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "—-------- is a rotating or sliding piece in a mechanical linkage?",
+      "answers": {
+        "a": "follower",
+        "b": "spring",
+        "c": "cam",
+        "d": "All of the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": ""
+    },
+    {
+      "question": "The throw of the cam is the max distance of the follower from",
+      "answers": {
+        "a": "base circle",
+        "b": "pitch circle",
+        "c": "prime circle",
+        "d": "pitch circle"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "Why is offset provided for a cam follower mechanism?",
+      "answers": {
+        "a": "to avoid jerk",
+        "b": "to accelerate",
+        "c": "to decelerate",
+        "d": "to minimize side thrust"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+Perform the simulation experiment on elliptical cam mechanism, thereby find out the position, velocity, acceleration and jerk of a cam with respect to time and note down the effect change in the radius, eccentricity, angular position and speed on the position, velocity, acceleration and jerk of the follower.
