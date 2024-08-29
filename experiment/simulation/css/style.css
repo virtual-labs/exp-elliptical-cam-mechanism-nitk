@@ -99,6 +99,7 @@ h1 {
   display: flex;
   flex-direction: column;
   align-items: center;
+  cursor: pointer;
 }
 .tool-list span {
   display: inline-block;
@@ -360,6 +361,7 @@ h1 {
 #legendicon {
   background-image: url("../images/legendicon.png");
   position: absolute right;
+  border: 1px solid black;
   left: 564px;
   top: 471px;
   height: 23px;
