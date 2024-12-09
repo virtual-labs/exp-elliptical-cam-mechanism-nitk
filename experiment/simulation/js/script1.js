@@ -119,7 +119,7 @@ function showLegend() {
     $("#legendicon").css("border", "smoke");
     $("#legend").css(
       "height",
-      document.getElementById("legendimg").height + "px"
+      document.getElementById("legendimg").height + 30 + "px"
     );
     $("#legend").css("border", "none");
     legendCS = true;
