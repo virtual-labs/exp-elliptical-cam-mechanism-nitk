@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Cam converts rotary motion into a",
+      "answers": {
+        "a": "rotary motion",
+        "b": "translatory motion",
+        "c": "both rotary and translatory motion",
+        "d": "none of these"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    },
+    {
+      "question": "Size of the cam depends upon",
+      "answers": {
+        "a": "base circle",
+        "b": "prime circle",
+        "c": "pitch circle",
+        "d": "pitch curve"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "Parameter in the elliptical cam mechanism depends on?",
+      "answers": {
+        "a": "major axis",
+        "b": "minor axis",
+        "c": "both of the above",
+        "d": "none of the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": ""
+    },
+    {
+      "question": "The circle passing through the pitch point & concentric with base circle of cam profile is know as",
+      "answers": {
+        "a": "prime circle",
+        "b": "pitch circle",
+        "c": "base circle",
+        "d": "All of the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    },
+    {
+      "question": "In radial cams the angle between the direction of motion of followers to the normal to the pitch curve called ",
+      "answers": {
+        "a": "cam angle",
+        "b": "critical angle",
+        "c": "pressure angle",
+        "d": "none of the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    }
+  ]
+}
